@@ -1,0 +1,34 @@
+# Architectural Project Notes
+
+## SITE AND CONTEXT
+
+- PROJECT: Oja Moferere Market Renovation
+- The project is located in Ondo Town, Nigeria.
+- The market is approximately 1.88 kilometres from the city centre.
+- The site covers approximately 13755 square metres.
+- The existing market is disorganised and congested.
+- The site has poor accessibility and inadequate sanitation.
+- The project aims to improve sanitation and accessibility.
+- The development includes an open market.
+- The market provides 96 individual stalls.
+- The site includes parking and pedestrian spaces.
+
+## DESIGN CONCEPT
+
+- The design concept introduces a large canopy roof.
+- The shell roof connects the different buildings.
+
+## DESIGN OBJECTIVES
+
+- The proposal aims to provide a better shopping environment.
+- The design creates organised commercial spaces.
+
+## ARCHITECTURAL FEATURES
+
+- The design uses natural ventilation and daylight.
+- The project includes a two-floor food hall.
+
+## GENERAL NOTES
+
+- The mini mall contains six clothing shops.
+
